@@ -24,3 +24,14 @@ May cause dependency inconsistencies between environments.
 
 Recommendation:
 Use one package manager consistently across the team.
+
+# Search Bar
+
+Issue:
+Text appear outside it 
+
+Possible Impact:
+May cause confusion when browsing events
+
+Recommendation:
+Error in code that can be easily sorted
